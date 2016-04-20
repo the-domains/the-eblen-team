@@ -1,0 +1,28 @@
+name: The Eblen Team
+favicon: null
+layout_spectrum: 0.3705941785592586
+typography_spectrum: 0.8487604968249798
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.15249295509420335
+  lightness: 0.46736705116927624
+  saturation: 0.5689007707405835
+  rhythmicContrast: 0.277160877129063
+purpose: []
