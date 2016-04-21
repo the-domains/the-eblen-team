@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I can't keep this Secret I am too excited! JLA - The Eblen Real Estate Team will be hosting A TEXAS SIZE Open House Featuring over 16 Homes! With Saving SO HUGE.. Just to give you a little peek of how huge one of the Homes was listed at $619,000 now $499,000 (WOW) - Wait your know with the Eblen TEAM there is alway going to be More! Tons of Food and Give-a-ways! This Event Starts on Weekends April 30th- May 1... And if we still have any homes left the party may go on to next WEEK WHO Knows! So much MORE! But I have to leave some Surprises.. Come ready to get a Sweet Deal! Where: More Information to Come!( In Conroe TX) First Stopping Point: More Information to Come Call or TEXT ME Jessica Eblen 832-319-4336 with any questions ‪#‎theEblenTeam‬ ‪#‎JessicaEblen‬ ‪#‎HoustonRealtor‬"
-datePublished: '2016-04-20T21:29:04.547Z'
-dateModified: '2016-04-20T21:28:24.150Z'
+datePublished: '2016-04-21T17:08:11.243Z'
+dateModified: '2016-04-21T17:03:41.591Z'
 title: 2019 Doolan
 author:
   - name: ''
